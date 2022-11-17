@@ -3,7 +3,7 @@
 The process
 
 1.	Login
-1.1	If I am not logged in, then I will the program will complete the login process 
+1.1	If I am not logged in, then I will the program will complete the login process \n
 1.2	If I am logged in, then then the program goes to the next phase.
 
 2.	Data extraction and input.
